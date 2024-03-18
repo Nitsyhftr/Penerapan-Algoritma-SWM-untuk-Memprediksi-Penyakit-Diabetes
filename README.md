@@ -1,2 +1,2 @@
 # Penerapan-Algoritma-SWM-untuk-Memprediksi-Penyakit-Diabetes
-Matakuliah Machine Learning Semester 5
+Mengenai penerapan matakuliah machine learning dalam memprediksi penyakit diabetes✨
